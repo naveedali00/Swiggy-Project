@@ -27,7 +27,7 @@ The dataset includes:
 - Top Cities by Orders: Bengaluru, Mumbai, Hyderabad
   
 These KPIs give a quick overview of platform performance and customer satisfaction.
--Dashboard <a href =" Dashboard View
+-Dashboard <a href ="https://github.com/naveedali00/Swiggy-Project/blob/main/Screenshot%202026-07-10%20215753.png"> Dashboard View </a>
 
 ## 📈Key Insights :
 Metro cities drive demand, with Bengaluru having the highest total orders.
